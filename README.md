@@ -1,6 +1,6 @@
 # FirebaseRealTimeChatApplication
 
-*Real time chat
+*Real time chat\n
 *Email-Password Authentication
 *Sign in
 *Sign out
